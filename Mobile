@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>BTUAN EXTRALY Web Clip</string>
+			<key>PayloadDisplayName</key>
+			<string>BTUAN EXTRALY</string>
+			<key>PayloadIdentifier</key>
+			<string>com.btuan.extraly.webclip</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>02BD5AEB-3A56-49F7-AEB5-8B9E19BEB4C7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>FullScreen</key>
+			<true/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>BTUAN EXTRALY</string>
+			<key>URL</key>
+			<string>https://ahtundz123-ux.github.io/Ggh/BTUAN_EXTRALY_PANEL.html</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>BTUAN EXTRALY</string>
+	<key>PayloadDisplayName</key>
+	<string>BTUAN EXTRALY</string>
+	<key>PayloadIdentifier</key>
+	<string>com.btuan.extraly.profile</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>125C9F5B-9D60-4C14-80E6-19C02707D2B1</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
